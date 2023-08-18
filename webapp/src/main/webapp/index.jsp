@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register Final update by Rajiv Siddiqui Dhaka</h1>
+<<<<<<< HEAD
+    <h1>New user Register Final update by Rajiv Siddiqui Dhaka1</h1>
+=======
+    <h1>New user Register Final update by Rajiv Siddiqui Dhaka Bangladesh12</h1>
+>>>>>>> 56d2f31212d79c6781a459de4167b6787bb46e38
     <p>Please fill in this form to create an account.</p>
     <hr>
      
